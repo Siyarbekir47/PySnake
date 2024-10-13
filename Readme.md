@@ -68,6 +68,8 @@ PySnake is a simple snake game implemented in Python using the Turtle graphics l
 - `Right Arrow` - Move the snake right
 
 ## Screenshots
+![Screenshot 2024-10-13 201135](https://github.com/user-attachments/assets/bc048c66-344e-4116-bf83-1bb11514e037)
+![Screenshot 2024-10-13 201145](https://github.com/user-attachments/assets/6368175f-8845-44ff-999d-b6c7d9208536)
 
 
 ## Contributing
