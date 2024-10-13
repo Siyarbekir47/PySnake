@@ -10,8 +10,6 @@ screen.bgcolor("black")
 screen.title("PySnake")
 screen.tracer(0)
 
-
-
 snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
