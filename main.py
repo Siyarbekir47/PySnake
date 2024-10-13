@@ -25,7 +25,7 @@ while game_is_on:
     snake.move()
     time.sleep(0.1)
 
-# TODO
+# TODO:
 # detect collision with wall
 # detect collision with tail
 # detect collision with food
